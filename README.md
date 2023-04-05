@@ -6,7 +6,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h47obs4xq6qeiogdf4rupp3niq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/> 
   <div align="center">
     <h4>
-      I'm a graphics programmer struggling to improve himself. I'll never give up learning! I hope that I become a professional someday.
+      I'm a graphics programmer struggling to improve myself. I hope that I become a professional someday. I'll never give up learning!
     </h4>
   </div>
   <div id="badges">
