@@ -1,14 +1,17 @@
 <div align="center">
   <img src="/digitalGeometryProcessing_neptune.png"/>
-  <h1>
-    Eren Dere
+  <h1 align="left">
+    Hi, I'm Eren.
   </h1>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h47obs4xq6qeiogdf4rupp3niq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/> 
-  <div align="center">
-    <h4>
-      I'm a graphics programmer struggling to improve myself. I hope that I become a professional someday. I'll never give up learning!
-    </h4>
+  <div align="left">
+    <p>
+      I'm a graphics programmer struggling to improve myself. I hope that I become a professional someday. I'll never give up learning no matter how hard it is!
+    </p>
   </div>
+  <div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h47obs4xq6qeiogdf4rupp3niq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/  
+  </div>
+  <div align="center">
   <div id="badges">
     <a href="linkedin.com/in/eren-dere">
       <img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,16 +27,25 @@
     </a>
     <img src="https://img.shields.io/github/followers/yatiyr?style=social" alt="Github Followers" />
   </div>
+  </div>
   <img src="https://komarev.com/ghpvc/?username=yatiyr&color=blueviolet" />
   <div>
   </img>  
   </div>
 </p>
 
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=yatiyr&theme=neon&hide_border=true" />
+<div align="left">
+  <h1> Stats </h1>
+</div>
+
+<div align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatiyr&theme=neon&langs_count=8&layout=compact" />
+![Stat1](https://awesome-github-stats.azurewebsites.net/user-stats/yatiyr?cardType=level-alternate&theme=tokyonight&preferLogin=false)
+
+![Stat2](http://github-readme-streak-stats.herokuapp.com?user=yatiyr&theme=tokyonight&hide_border=true)
+
+![Stat3](https://github-readme-stats.vercel.app/api/top-langs/?username=yatiyr&theme=tokyonight&langs_count=8)
+
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=57312811)
