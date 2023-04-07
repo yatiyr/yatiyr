@@ -5,7 +5,7 @@
   </h1>
   <div align="left">
     <p>
-      I'm a graphics programmer struggling to improve myself. I hope that I become a professional someday. I'll never give up learning no matter how hard it is!
+      I'm a graphics programmer struggling to improve myself at my job. I hope that I become a professional someday. I'll never give up learning no matter how hard it is!
     </p>
   </div>
   <div align="center">
