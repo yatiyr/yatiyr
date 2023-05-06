@@ -60,10 +60,15 @@
 </br>
 </br>
 
-### My Latest Blog Posts
+### Some of my Blog Posts
 I write about the things I learn so I can use them as reference later.
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [My Ray Tracer Journey](https://yatiyr-portfolio-yatiyr.vercel.app/blog/my-ray-tracer-journey-1)
+- [Smooth Minimum Function](https://yatiyr-portfolio-yatiyr.vercel.app/blog/smooth-min)
+- [Ceng 589 Digital Geometry Processing - 1](https://yatiyr-portfolio-yatiyr.vercel.app/blog/geometry-processing-1)
+- [Ceng 589 Digital Geometry Processing - 2](https://yatiyr-portfolio-yatiyr.vercel.app/blog/geometry-processing-2)
+- [SDFs (Plane Box and Sphere)](https://yatiyr-portfolio-yatiyr.vercel.app/blog/sdfs-1)
+- [SDFs (Torus Capsule and Cylinder)](https://yatiyr-portfolio-yatiyr.vercel.app/blog/sdfs-2)
+- [Ray Marching](https://yatiyr-portfolio-yatiyr.vercel.app/blog/learning-shadertoy-3)
 
 <div align="center>
   <a href="#">
