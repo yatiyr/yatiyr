@@ -5,7 +5,7 @@
   <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&duration=3500&pause=20&color=99FF52&center=true&vCenter=true&repeat=false&width=1000&height=150&separator=%3C&lines=Hi%2C+I'm+Eren!" alt="Typing SVG" /></a>
    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=35&pause=1000&color=119DF7&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=245&separator=%3C&lines=Like+Erkin+Koray+says;%3CI+know%2C+abyss+ahead%3CBut+you+walk%2C+my+dear%3CThe+past+is+worse%2C+the+past+is+known%3CThe+past+is+worse%2C+the+past+is+known..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=45&pause=1000&color=119DF7&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=275&separator=%3C&lines=Like+Erkin+Koray+says;%3CI+know%2C+abyss+ahead%3CBut+you+walk%2C+my+dear%3CThe+past+is+worse%2C+the+past+is+known%3CThe+past+is+worse%2C+the+past+is+known..." alt="Typing SVG" /></a>
   </div>
   <div align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31h47obs4xq6qeiogdf4rupp3niq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=99ff52&bar_color_cover=false"/>
